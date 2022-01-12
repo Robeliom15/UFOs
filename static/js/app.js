@@ -55,7 +55,7 @@ function updateFilters() {
   function filterTable() {
   
     // 8. Set the filtered data to the tableData.
-    let filtereddata = tableData();
+    let filtereddata = tableData;
   
   
     // 9. Loop through all of the filters and keep any data that
