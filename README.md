@@ -8,7 +8,7 @@ This website is a collection of UFOs that have been spotted throughout the world
 ### Results
 The search box is located at the bottom left of the page.
 
-![Example](https://github.com/Robeliom15/UFOs/blob/main/static/images/Example.png?raw=true)
+![Example](https://github.com/Robeliom15/UFOs/blob/main/static/images/Example.jpg?raw=true)
 
 Once you find out what type of UFO event you are interested in you simply enter the information into the search box. Once you start adding information the data will start to filter according to what you typed. You need to make sure that the information you enter also is spelled right so you can find the information you want. 
 
